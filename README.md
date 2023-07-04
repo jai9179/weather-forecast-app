@@ -1,3 +1,42 @@
+# Weather Forecast App
+
+This Weather Forecast App is a React-based web application that provides weather information using the WeatherAPI.com API.
+
+## Features
+
+- Fetches weather data from the WeatherAPI.com API based on the user's location.
+- Uses React Context API for state management.
+- Custom reusable components: Button, Card, and Input.
+- Responsive design for seamless use on different devices.
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/weather-forecast-app.git`
+2. Navigate to the project directory: `cd weather-forecast-app`
+3. Install dependencies: `npm install`
+4. Replace `'YOUR_WEATHER_API_KEY'` in `WeatherContext.js` with your actual WeatherAPI.com API key.
+5. Start the development server: `npm start`
+6. Open the app in your browser: `http://localhost:3000`
+
+## Usage
+
+- The app will request permission to access your location. Allow access to fetch weather data based on your location.
+- Use the provided components (Button, Card, Input) to enhance the app or add new features.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- The Weather Forecast App uses the WeatherAPI.com API to fetch weather data. Visit their website for more information: [WeatherAPI.com](https://www.weatherapi.com)
+
+Feel free to update the summary based on your project's specific details and additional sections you want to include.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
